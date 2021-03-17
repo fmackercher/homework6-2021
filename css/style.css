@@ -153,7 +153,7 @@ header{
 
 
 
-@media print { 
+@media print and (min-width: 1020px){ 
 
   /*Requirement 13*/
   body {
