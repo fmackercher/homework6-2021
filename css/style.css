@@ -53,7 +53,6 @@ header{
   padding: 0 0 50px 0;
   /*Your code here.*/
   /*Take a look at flex-basis*/
-  align-items: stretch;
   flex-basis: 400px;
 
 }
