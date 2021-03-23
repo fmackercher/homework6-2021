@@ -137,6 +137,8 @@ header{
   /*Requirement 11*/
   .package {
     /*Your code here again.*/
+    display: flex;
+    flex-direction: column;
     flex-basis: 250px;
   } 
 }
